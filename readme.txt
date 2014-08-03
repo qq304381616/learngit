@@ -1,3 +1,3 @@
-Git branch 1
+Git branch master
 Git is three change.
 Git is free software.
